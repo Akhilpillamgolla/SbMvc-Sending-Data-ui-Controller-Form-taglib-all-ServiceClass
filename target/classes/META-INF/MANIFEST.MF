@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 20
+Implementation-Title: SbMvc-Sending-Data-ui-Controller-Form-taglib-all-S
+ erviceClass
+Implementation-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+
